@@ -1,0 +1,2 @@
+# wazn-assets
+web
